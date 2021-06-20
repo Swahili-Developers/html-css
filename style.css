@@ -1,0 +1,43 @@
+.main{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    width:100px;
+    height: 100px;
+}
+h1{
+    font-size:23px;
+}
+input{
+    width: 60%;
+    height: 50px;
+    padding:2px;
+    margin: 5px;
+    border-radius: 2%;
+    padding-left: 50px;
+
+}
+
+#btn{
+    background-color: rgb(23, 98, 160);
+    color: whitesmoke;
+    
+    margin-left: 50px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+i{
+    height: 50px;
+    width: 50px;
+    
+
+}
+h2{
+    color: rgb(27, 156, 27);
+    font: 18px;
+}
